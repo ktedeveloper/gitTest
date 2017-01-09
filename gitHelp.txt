@@ -12,5 +12,5 @@ How to Get a List of All Git Commands
 git
 
 How to Escape Git Commit:
-type multiline message and enter this
-:wq?
+type multiline message, hit Esc, Enter
+:wq

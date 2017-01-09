@@ -1,0 +1,16 @@
+How To Upload:
+cd foldername
+git status
+git add filename.html or git -A (to get all changes)
+git commit -m "add/change filename.html"
+git push
+
+How to Download:
+git pull
+
+How to Get a List of All Git Commands
+git
+
+How to Escape Git Commit:
+type multiline message and enter this
+:wq?
